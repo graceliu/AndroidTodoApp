@@ -43,7 +43,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Answer:** [Enter your answer here in a paragraph or two].
 
-Android's separation of view from logic where view is expressed in the xml files and logic is expressed in the java files is good.  This is similar to traditional javascript framework's separation of view from logic where view is expressed in a templating language, e.g. handlebar.js, and the logic is expressed in javascript.  However the new React/Redux paradigm is changing this somewhat where React itself allows for idiomatic expression of view in javasrcript.
+Android's separation of view from logic where view is expressed in the xml files and logic is expressed in the java files is good.  This is similar to traditional javascript framework's separation of view from logic where view is expressed in a templating language, e.g. handlebar.js, and the logic is expressed in javascript.  However the new React/Redux paradigm is changing this somewhat where React itself allows for declarative expression of view in javasrcript.
 
 Android's automatic support for associating the data with the view through an adapter is also good.  In terms of how this correlates to a React-based framework, there is no direct correlation, especially specifically for a widget like a list view.  However React does support state in React components, and you can store the data associated with the React component in its state.
 
